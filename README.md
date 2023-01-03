@@ -1,2 +1,2 @@
 # NullableImpl
-Nullable implemention
+Delphi'de Nullable implemention
